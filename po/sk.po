@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: rc_gui 1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-16 11:26+0100\n"
-"PO-Revision-Date: 2020-11-28 20:17+0100\n"
+"PO-Revision-Date: 2020-12-14 21:28+0100\n"
 "Last-Translator: Jose Riha <jose1711@gmail.com>\n"
 "Language-Team: Slovak\n"
 "Language: sk\n"
@@ -412,7 +412,7 @@ msgstr "Pamäť _GPU:"
 
 #: ../data/rc_gui.ui.h:88
 msgid "Enter the amount of memory available to the GPU"
-msgstr "Zadajte množstvo pamäte, ktorá bude dostupná pre GPU"
+msgstr "Zadajte množstvo pamäte, ktoré bude dostupná pre GPU"
 
 #: ../data/rc_gui.ui.h:89
 msgid "Overlay File System:"
